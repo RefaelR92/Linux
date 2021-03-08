@@ -1,0 +1,6 @@
+Refael Doron - 311219372
+Aviv Zafrani - 313453284
+Gideon Shahar - 204713689
+
+we made 'sleep 2' after each wget because we got too many requests Error 429.(you can delete it, if it workes for you). 
+
