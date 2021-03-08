@@ -1,0 +1,8 @@
+names:
+1. Refael Doron - 311219372
+2. Aviv Zafrani - 313453284
+3. Gideon Shachar - 204713689
+
+- Should run the program with sudo (real-time scheduling) 
+- We didn't put mutex before and after the global variable g_IsEnteredTime because there is only one thread that will approach this variable at one time
+- Make sure to run the command "sudo apt-get install libssl-dev" at Bash before running the program
